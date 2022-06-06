@@ -1,9 +1,9 @@
 # CG-lab-pgms
 Programs are compiled using Dev-C++
 Important Glut libraries that must use to run these programs are:
-- [lopengl32]
-- [lfreeglut]
-- [lglu32]
+- lopengl32
+- lfreeglut
+- lglu32
 
 # Lab Program-1:
 Implement Bresenham’s line drawing algorithm for all types of slope. 
