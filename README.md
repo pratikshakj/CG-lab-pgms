@@ -5,7 +5,7 @@ Important Glut libraries that must use to run these programs are:
 - [lfreeglut]
 - [lglu32]
 
-#cLab Program-1:
+# Lab Program-1:
 Implement Bresenham’s line drawing algorithm for all types of slope. 
 26
 # Lab Program-2:
